@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: jason-ball/jasonball.me
 
 publish_mode: editorial_workflow
 
